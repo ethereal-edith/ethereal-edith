@@ -1,6 +1,6 @@
 - 👋🏾 Hello, My name is Edith Agai
 - 👀 I’m interested in front end web dev
-- 🌱 I’m currently learning Front-end dev (HTML, CSS and Javascript) and Backend stuff like Python
+- 🌱 I’m currently learning Front-end dev (HTML, CSS and Javascript) and React :>
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me edithagai737@gmail.com
 - 😄 Pronouns: she/they
