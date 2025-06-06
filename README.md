@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edith!</h1>
 <h3 align="center">A passionate full-stack development student from Kenya</h3>
 
-- 🔭 I’m currently working on **coming soon**
+- 🔭 I’m currently working on **[MoodMusic](https://github.com/ethereal-edith/moodmusic.git)**
 
 - 🌱 I’m currently learning **React.js, Python, Vanilla (JS the basics) :>**
 
@@ -47,6 +47,8 @@
 [![More Skills](https://skillicons.dev/icons?i=devto,discord,github,linux,linkedin,py,ubuntu,vscode)](https://skillicons.dev)
 
 ![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethereal-edith&show_icons=true&theme=neon)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethereal-edith)
 
 
 ### ✨ RANDOM FACTS
