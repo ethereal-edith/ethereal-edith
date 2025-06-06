@@ -21,11 +21,25 @@
 
 - 😄 Pronouns: she/they
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ethereal-edith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ethereal-edith" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ethereal-edith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ethereal-edith" height="30" width="40" /></a>
+<h3>Connect with me 🤝</h3>
+<p>
+  <a href="https://dev.to/etherealedith" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="mailto:edithagai377@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ethereal-edith" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+ </a>
+  <a href="https://codepen.io/ethereal-edith" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ethereal-edith" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,6 +48,12 @@
 
 ![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethereal-edith&show_icons=true&theme=neon)
 
+
+### ✨ RANDOM FACTS
+- 🧚🏽 Alt-gothic, earthy boho energy 
+- 🎨 codes React, does digital art, writes, sings, acts, debates, loves MItski and Nietzsche :3
+- 🧠 ENFP-T, chaotic good
+- 😺 Cat mom to Ginger/Amber (yes, both apply)
 
 
 
