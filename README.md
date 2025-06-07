@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edith!</h1>
 <h3 align="center">A passionate full-stack development student from Kenya</h3>
 
-- 🔭 I’m currently working on **[MoodMusic](https://github.com/ethereal-edith/moodmusic.git)**
+- 🔭 I’m currently working on **[MoodMusic](https://github.com/ethereal-edith/moodmusic)**
 
 - 🌱 I’m currently learning **React.js, Python, Vanilla (JS the basics) :>**
 
