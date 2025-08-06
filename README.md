@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edith!</h1>
-<h3 align="center">A passionate full-stack development student from Kenya</h3>
+<h3 align="center">A passionate programmer and student from Kenya</h3>
 
 - 🌱 I’m learning **HTML, CSS, Vanilla JS, React.js, Python, SQLite, Flask, C++  :>**
 
