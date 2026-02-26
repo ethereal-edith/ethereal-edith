@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edith!</h1>
 <h3 align="center">A passionate programmer and student from Kenya</h3>
 
-- 🌱 I code 
-
 - 📝 I write articles on [https://dev.to/etherealedith](https://dev.to/etherealedith)
 
 - 📫 How to reach me **edithagai737@gmail.com**
