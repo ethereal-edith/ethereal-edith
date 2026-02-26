@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edith!</h1>
 <h3 align="center">A passionate programmer and student from Kenya</h3>
 
-- 🌱 I’m code in **HTML, CSS, Vanilla JS, React.js, Python, SQLite, Flask, C++, Java :>**
+- 🌱 I’m code 
 
 - 📝 I write articles on [https://dev.to/etherealedith](https://dev.to/etherealedith)
 
