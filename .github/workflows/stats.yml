@@ -9,19 +9,23 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    - uses: StefVuck/Github-Language-Stats@v1.1.0
-      with:
-        github_token: ${{ secrets.STATS_TOKEN }}
-        exclude_languages: ""
-        include_forks: "false"
-        visualization_types: "leaderboard"
-        output_path: "stats"
-    - name: Force push stats
-      run: |
-        git pull --rebase origin main
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.STATS_TOKEN }}
+      - uses: StefVuck/Github-Language-Stats@v1.1.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          exclude_languages: ""
+          include_forks: "false"
+          visualization_types: "leaderboard"
+          output_path: "stats"
+      - name: Force push stats
+        run: |
+          git fetch --all
+          git reset --soft origin/main
+          git add stats/
+          git commit --amend --no-edit
+          git push origin main --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
