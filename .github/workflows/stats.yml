@@ -19,3 +19,9 @@ jobs:
         include_forks: "false"
         visualization_types: "leaderboard"
         output_path: "stats"
+    - name: Force push stats
+      run: |
+        git pull --rebase origin main
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
