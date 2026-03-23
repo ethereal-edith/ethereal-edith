@@ -7,8 +7,7 @@
 
 - ⚡ Fun fact **I am eccentric (i think)**
 
-#  LANGUAGE STATS 
-![Language Stats](stats/leaderboard_by_lines.png)
+
 
 
 
