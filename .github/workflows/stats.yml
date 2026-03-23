@@ -9,10 +9,13 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: StefVuck/Github-Language-Stats@v1.1.0
-        with:
-          github_token: ${{ secrets.STATS_TOKEN }}
-          exclude_languages: ""
-          visualization_types: "leaderboard"
-          output_path: "stats"
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - uses: StefVuck/Github-Language-Stats@v1.1.0
+      with:
+        github_token: ${{ secrets.STATS_TOKEN }}
+        exclude_languages: ""
+        include_forks: "false"
+        visualization_types: "leaderboard"
+        output_path: "stats"
