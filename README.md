@@ -10,6 +10,8 @@
 
 ![Language Stats](stats/leaderboard_by_lines.png)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethereal-edith)
+
 <!---
 ethereal-edith/ethereal-edith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
